@@ -1,0 +1,32 @@
+30 BASIC XLOOKUP PRACTICE QUESTIONS
+
+1. Find the selling price of the first car in the dataset using XLOOKUP.
+2. Find the fuel type of the first car based on its brand.
+3. Find the owner type for a selected car brand.
+4. Find the selling price of a Maruti car.
+5. Find the fuel type of a Hyundai car.
+6. Find the selling price of a Honda car.
+7. Find the owner type of a Skoda car.
+8. Find the kilometers driven by a Maruti car.
+9. Find the selling price of a Toyota car.
+10. Find the fuel type of a Ford car.
+11. Use XLOOKUP to find the selling price for a car when its brand is entered in a separate cell.
+12. Use XLOOKUP to return the fuel type based on a brand entered by the user.
+13. Use XLOOKUP to return the owner type based on a selected brand.
+14. Use XLOOKUP to return km_driven based on the selected brand.
+15. Use XLOOKUP to return the selling price, and display "Not Found" if the brand does not exist.
+16. Find the selling price of the first Maruti car using XLOOKUP.
+17. Find the selling price of the first Hyundai car using XLOOKUP.
+18. Find the selling price of the first Honda car using XLOOKUP.
+19. Find the fuel type of the first Tata car using XLOOKUP.
+20. Find the owner type of the first Renault car using XLOOKUP.
+21. Create an XLOOKUP formula that searches for a brand and returns its selling price.
+22. Create an XLOOKUP formula that searches for a brand and returns its km_driven.
+23. Create an XLOOKUP formula that searches for a brand and returns its fuel type.
+24. Create an XLOOKUP formula that searches for a brand and returns its owner type.
+25. Use XLOOKUP to search for a brand and return both fuel and owner information.
+26. Use XLOOKUP to find the selling price of a selected brand, with "Brand Not Available" as the error message.
+27. If the user enters Maruti in cell H2, use XLOOKUP to return its selling price.
+28. If the user enters Honda in cell H2, use XLOOKUP to return its fuel type.
+29. If the user enters Toyota in cell H2, use XLOOKUP to return its owner type.
+30. Create a small lookup section where the user enters a car brand and XLOOKUP automatically returns brand, km_driven, fuel, owner, and selling_price.
